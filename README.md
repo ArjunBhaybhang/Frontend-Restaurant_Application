@@ -1,4 +1,4 @@
-# A fully responsive app with a modern feel!
+# A fully responsive Web-app with a modern feel!
 
 ![Screenshot 2023-03-24 at 10 10 12 AM](https://user-images.githubusercontent.com/66169198/227426997-8d5890e2-2e5f-4d67-9acb-9f307c14c6c8.png)
 
